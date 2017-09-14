@@ -1,0 +1,20 @@
+{
+  "name": "react-todo-proto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "start": "webpack-dev-server --hot",
+    "test": "karma start"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "react": "^15.6.1",
+    "webpack": "^3.5.6"
+  },
+  "dependencies": {
+    "webpack-dev-server": "^2.8.1"
+  }
+}
